@@ -1,7 +1,9 @@
 
-Welcome dear!
+![](ccat_art.png)
 
-This is where the Cheshire Cat AI develops a long tail.
+## Welcome dear!
+
+This is where the Cheshire Cat AI is growing a long tail.
 You will find several repos:
 
 - [core](https://github.com/cheshire-cat-ai/core) is the backend to host your AI
@@ -14,5 +16,7 @@ To know more:
 - [Website](https://cheshirecat.ai/)
 - [Documentation](https://cheshire-cat-ai.github.io/docs/)
 - Join the [Discord community](https://discord.gg/bHX5sNFCYU)
+
+*Image generated with MidJourney, prompted by [Edgars Romanovskis](https://www.linkedin.com/in/edgars-romanovskis-b28826259/)*
 
 
