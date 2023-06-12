@@ -1,5 +1,5 @@
 
-![](ccat_art.png)
+![](/profile/ccat_art.png)
 
 ## Welcome dear!
 
