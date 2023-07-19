@@ -10,6 +10,13 @@ You will find several repos:
 - [admin-vue](https://github.com/cheshire-cat-ai/admin-vue) is the admin panel
 - [widget-vue](https://github.com/cheshire-cat-ai/widget-vue) is the chat widget to put on your website
 - [docs](https://github.com/cheshire-cat-ai/docs) is the official technical documentation
+- [api-client-ts](https://github.com/cheshire-cat-ai/api-client-ts) official typescript client
+
+Some wild experiments:
+
+- [discord-bot-ts](https://github.com/cheshire-cat-ai/discord-bot-ts) Discord client
+- [telegram-bot-ts](https://github.com/cheshire-cat-ai/telegram-bot-ts) Telegram client
+- [vscode-extension](https://github.com/cheshire-cat-ai/vscode-extension) VSCode extension
 
 To know more:
 
