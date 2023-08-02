@@ -10,7 +10,12 @@ You will find several repos:
 - [admin-vue](https://github.com/cheshire-cat-ai/admin-vue) is the admin panel
 - [widget-vue](https://github.com/cheshire-cat-ai/widget-vue) is the chat widget to put on your website
 - [docs](https://github.com/cheshire-cat-ai/docs) is the official technical documentation
-- [api-client-ts](https://github.com/cheshire-cat-ai/api-client-ts) official typescript client
+
+Official clients:
+
+- [Typescript client](https://www.npmjs.com/package/ccat-api) ([repo](https://github.com/cheshire-cat-ai/api-client-ts)) 
+- [Pyhon client](https://pypi.org/project/cheshire-cat-api/) ([repo](https://github.com/cheshire-cat-ai/api-client-py))
+
 
 Some wild experiments:
 
