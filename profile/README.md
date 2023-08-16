@@ -1,4 +1,3 @@
-
 ![](/profile/ccat_art.png)
 
 ## Welcome dear!
@@ -13,15 +12,15 @@ You will find several repos:
 
 Official clients:
 
-- [Typescript client](https://www.npmjs.com/package/ccat-api) ([repo](https://github.com/cheshire-cat-ai/api-client-ts)) 
-- [Pyhon client](https://pypi.org/project/cheshire-cat-api/) ([repo](https://github.com/cheshire-cat-ai/api-client-py))
+- [TypeScript Client](https://www.npmjs.com/package/ccat-api) ([repo](https://github.com/cheshire-cat-ai/api-client-ts)) 
+- [Python Client](https://pypi.org/project/cheshire-cat-api/) ([repo](https://github.com/cheshire-cat-ai/api-client-py))
 
 
 Some wild experiments:
 
-- [discord-bot-ts](https://github.com/cheshire-cat-ai/discord-bot-ts) Discord client
-- [telegram-bot-ts](https://github.com/cheshire-cat-ai/telegram-bot-ts) Telegram client
-- [vscode-extension](https://github.com/cheshire-cat-ai/vscode-extension) VSCode extension
+- [Discord Bot](https://github.com/cheshire-cat-ai/discord-bot-ts)
+- [Telegram Bot](https://github.com/cheshire-cat-ai/telegram-bot-ts)
+- [VSCode Extension](https://github.com/cheshire-cat-ai/vscode-extension)
 
 To know more:
 
