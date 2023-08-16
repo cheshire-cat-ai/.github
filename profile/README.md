@@ -1,3 +1,9 @@
+<a href="https://discord.gg/bHX5sNFCYU"> 
+   <img alt="Discord Server" src="https://img.shields.io/discord/1092359754917089350?logo=discord&style=flat-square"> 
+</a> 
+<img alt="GitHub Stars" src="https://img.shields.io/github/stars/cheshire-cat-ai?logo=github&style=flat-square">
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/cheshire-cat-ai?logo=github&style=flat-square">
+
 ![](/profile/ccat_art.png)
 
 ## Welcome dear!
